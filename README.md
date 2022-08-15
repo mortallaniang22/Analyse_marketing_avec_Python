@@ -2,7 +2,7 @@
 
 Ce projet consiste à analyser les ventes et le comportement des clients d'une librairie en linge.
 
-## [Nettoyage des données - Exploration des données](./Exploration et nettoyage des données (1).ipynb)
+## [Nettoyage des données - Exploration des données](./Exploration_et_nettoyage_des_données.ipynb)
 
 - Nettoyage des valeurs manquantes.
 - Nettoyage des doublons.
