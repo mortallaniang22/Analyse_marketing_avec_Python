@@ -10,6 +10,16 @@ Ce projet consiste à analyser les ventes et le comportement des clients d'une l
 
 <img alt="MySQL" width="60%" src="./outliers.png" style="padding-right:10px;" />
 
+## [Analyse du chiffre d'affaires](./2_Analyse_des_indicateurs_de_vente.ipynb)
+
+- Répartition du chiffre d'affaires sur les clients et les catégories de produits.
+- Evolution du chiffre d'affaires
+- Chiffre d'affaires glissant
+- Top chiffre d'affaires
+
+<img alt="MySQL" width="80%" src="./seriet.png" style="padding-right:10px;" />
+
+
 ## Contenu
 1. Notebook préparation et nettoyages des données
 2. Notebook analyse KPIs et comportement clients.
