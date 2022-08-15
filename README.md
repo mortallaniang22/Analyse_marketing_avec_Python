@@ -2,11 +2,13 @@
 
 Ce projet consiste à analyser les ventes et le comportement des clients d'une librairie en linge.
 
-## [Nettoyage des données - Exploration des données](./1_Exploration_Nettoyage.ipynb)
+## [Nettoyage des données - Exploration des données](./Exploration et nettoyage des données (1).ipynb)
 
-- Analyse univariée 
-- Analyse bivariée
-- Tests statistiques
+- Nettoyage des valeurs manquantes.
+- Nettoyage des doublons.
+- Détection et analyse des valeurs aberrantes.
+
+<img alt="MySQL" width="60%" src="./outliers.png" style="padding-right:10px;" />
 
 ## Contenu
 1. Notebook préparation et nettoyages des données
