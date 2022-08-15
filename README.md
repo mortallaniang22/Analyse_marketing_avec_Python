@@ -1,4 +1,4 @@
-# Analyse-des-ventes-Lapage
+# Analyse marketing avec Python
 
 Ce projet consiste à analyser les ventes et le comportement des clients d'une librairie en linge.
 
