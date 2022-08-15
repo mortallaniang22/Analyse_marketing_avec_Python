@@ -2,7 +2,7 @@
 
 Ce projet consiste à analyser les ventes et le comportement des clients d'une librairie en linge.
 
-## Nettoyage des données - Exploration des données
+## [Nettoyage des données - Exploration des données](./1_Exploration_Nettoyage.ipynb)
 
 - Analyse univariée 
 - Analyse bivariée
