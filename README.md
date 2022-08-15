@@ -24,7 +24,7 @@ Ce projet consiste à analyser les ventes et le comportement des clients d'une l
 - Test du chi carré
 - Test de Spearman
 - Test ANOVA
-<img alt="MySQL" width="100%" src="./matrix.png" style="padding-right:10px;" />
+<img alt="MySQL" width="100%" src="./matricecor.png" style="padding-right:10px;" />
 
 
 ## Contenu
