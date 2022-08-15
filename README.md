@@ -10,7 +10,7 @@ Ce projet consiste à analyser les ventes et le comportement des clients d'une l
 
 <img alt="MySQL" width="60%" src="./outliers.png" style="padding-right:10px;" />
 
-## [Analyse du chiffre d'affaires](./2_Analyse_des_indicateurs_de_vente.ipynb)
+## [Analyse du chiffre d'affaires](./KPIs_et_comportement_client.ipynb)
 
 - Répartition du chiffre d'affaires sur les clients et les catégories de produits.
 - Evolution du chiffre d'affaires
