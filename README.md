@@ -1,5 +1,9 @@
 # Analyse-des-ventes-Lapage
-Ce projet consiste à mettre en place des KPIs ventes et à analyser le comportement des clients d'une librairie en linge.
+
+Ce projet consiste à analyser les ventes et le comportement des clients d'une librairie en linge.
+
+## Nettoyage des données - Exploration des données
+
 - Analyse univariée 
 - Analyse bivariée
 - Tests statistiques
