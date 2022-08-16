@@ -40,7 +40,7 @@ Dans cette partie, nous avons effectué une analyse univariée du chiffre d’af
 - Test de Spearman
 - Test ANOVA
 
-<img alt="MySQL" width="100%" src="./xxxx.png" style="padding-right:10px;" />
+<img alt="MySQL" width="100%" src="./4x.png" style="padding-right:10px;" />
 
 
 ## outils
