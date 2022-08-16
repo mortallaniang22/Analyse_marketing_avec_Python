@@ -1,12 +1,25 @@
 # Analyse marketing avec Python
 
-Ce projet consiste à analyser les ventes et le comportement des clients d'une librairie en linge.
+Ce projet est une analyse des ventes, du chiffre d'affaires et du comportement client d'une librairie en ligne.
 
-## [Nettoyage - Exploration des données](./Exploration_et_nettoyage_des_données.ipynb)
+Données traitées :
+
+- table **customers** : donne des informations sur les clients
+- table **products** : donne des informations sur les produits
+- table **transactions** : donne des informations sur des opérations de vente. 
+
+
+## [Préparation - Exploration des données](./Exploration_et_nettoyage_des_données.ipynb)
+Dans cette partie, nous avons essentiellement travailler sur la préparation des données. Dans ce cadre, nous sommes passés par les process suivants:
 
 - Nettoyage des valeurs manquantes.
 - Nettoyage des doublons.
-- Détection et analyse des valeurs aberrantes.
+- Détection et analyse des outliers.
+- consolidation des tables.
+ 
+L'analyse de chacune des variables nous a permis de visualiser et de mieux comprendre les données.
+
+Voir l'image ci-dessous qui nous permet de visaliser la distribution de la variable age à titre d'exemple.
 
 <img alt="MySQL" width="60%" src="./outliers.png" style="padding-right:10px;" />
 
@@ -26,10 +39,6 @@ Ce projet consiste à analyser les ventes et le comportement des clients d'une l
 - Test ANOVA
 <img alt="MySQL" width="100%" src="./matricecor.png" style="padding-right:10px;" />
 
-
-## Contenu
-1. Notebook préparation et nettoyages des données
-2. Notebook analyse KPIs et comportement clients.
 
 ## outils
 Python, Pandas, Seaborn, Scipy, Numpy
