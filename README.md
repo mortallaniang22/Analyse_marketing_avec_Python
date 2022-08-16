@@ -28,6 +28,8 @@ Voir l'image ci-dessous qui nous permet de visaliser la distribution de la varia
 Dans cette partie, nous avons effectué une analyse univariée du chiffre d’affaires pour avoir une bonne maitrise de l'activité et une analyse bivariée pour avoir une compréhension sur le comportement de nos clients.
 
 ### Analyse du chiffre d'affaires
+Le chiffre d'affaires represente la somme des ventes realisée par l'entreprise sur ces clients.
+Pour l'analysé, nous allons passé par les étapes suivants.
 
 - Répartition du chiffre d'affaires sur les clients et les catégories de produits.
 - Evolution du chiffre d'affaires dans le temps
@@ -36,6 +38,8 @@ Dans cette partie, nous avons effectué une analyse univariée du chiffre d’af
 <img alt="MySQL" width="80%" src="./evo.png" style="padding-right:10px;" />
 
 ### Analyse du comportement des clients
+Pour avoir un aperçu sur le comportement des clients, nous allons réaliser des tests statistiques sur des différentes variables explicatives.
+
 - Test du chi carré
 - Test de Spearman
 - Test ANOVA
