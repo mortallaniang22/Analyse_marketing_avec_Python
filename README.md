@@ -21,7 +21,7 @@ L'analyse de chacune des variables nous a permis de visualiser et de mieux compr
 
 Voir l'image ci-dessous qui nous permet de visaliser la distribution de la variable age à titre d'exemple.
 
-<img alt="MySQL" width="60%" src="./age.png" style="padding-right:10px;" />
+<img alt="MySQL" width="60%" src="./tranche.png" style="padding-right:10px;" />
 
 ## [Analyse du chiffre d'affaires et le comportement des clients](./KPIs_et_comportement_client.ipynb)
 
