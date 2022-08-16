@@ -50,7 +50,3 @@ Pour avoir un aperçu sur le comportement des clients, nous allons réaliser des
 ## outils
 Python, Pandas, Seaborn, Scipy, Numpy
 
-## Données:
-- Fichier clients
-- Fichier produits
-- Fichiers transactions
