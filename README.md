@@ -33,7 +33,7 @@ Dans cette partie, nous avons effectué une analyse univariée du chiffre d’af
 - Evolution du chiffre d'affaires dans le temps
 - Top chiffre d'affaires
 
-<img alt="MySQL" width="80%" src="./seriet.png" style="padding-right:10px;" />
+<img alt="MySQL" width="80%" src="./evo.png" style="padding-right:10px;" />
 
 ### Analyse du comportement des clients
 - Test du chi carré
