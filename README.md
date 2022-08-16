@@ -23,12 +23,14 @@ Voir l'image ci-dessous qui nous permet de visaliser la distribution de la varia
 
 <img alt="MySQL" width="60%" src="./tranche.png" style="padding-right:10px;" />
 
-## [Analyse du chiffre d'affaires et le comportement des clients](./KPIs_et_comportement_client.ipynb)
+## [Analyses du chiffre d'affaires et du comportement des clients](./KPIs_et_comportement_client.ipynb)
+
+Dans cette partie, nous avons effectué une analyse univariée du chiffre d’affaires pour avoir une bonne maitrise de l'activité et une analyse bivariée pour avoir une compréhension sur le comportement de nos clients.
 
 ### Analyse du chiffre d'affaires
+
 - Répartition du chiffre d'affaires sur les clients et les catégories de produits.
-- Evolution du chiffre d'affaires
-- Chiffre d'affaires glissant
+- Evolution du chiffre d'affaires dans le temps
 - Top chiffre d'affaires
 
 <img alt="MySQL" width="80%" src="./seriet.png" style="padding-right:10px;" />
@@ -37,6 +39,7 @@ Voir l'image ci-dessous qui nous permet de visaliser la distribution de la varia
 - Test du chi carré
 - Test de Spearman
 - Test ANOVA
+
 <img alt="MySQL" width="100%" src="./matricecor.png" style="padding-right:10px;" />
 
 
